@@ -1,3 +1,3 @@
 # BugBountyStuff
 
-## Todo List Methodology Hunting Bug
+- Todo List Methodology Hunting Bug
